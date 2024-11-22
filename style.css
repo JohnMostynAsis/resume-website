@@ -7,6 +7,16 @@ body {
     color: #333;
 }
 
+.id-picture {
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Ensures a square shape */
+    border-radius: 50%; /* Makes the picture circular */
+    margin-bottom: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .resume {
     max-width: 800px;
     margin: 2rem auto;
